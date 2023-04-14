@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: rgb(37, 35, 33);
+    font-family: Arial;
+}
+
+#menu {
+    width: 100%;
+    background-color: rgb(23, 27, 41);
+    color: white;
+}
+
+table {
+    width: 100%;
+    background-color:  rgb(23, 27, 41);;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.stopka {
+    background-color: black;
+    width: 100%;
+}
+
+table tr td {
+    border: 1px solid white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.lista {
+    font-size: 130%;
+    font-family: Arial;
+}
+
+img {
+    max-width: 100%;
+}
+
+#zaz {
+    font-size: 130%;
+    font-family: Arial;
+    color: red;
+}
